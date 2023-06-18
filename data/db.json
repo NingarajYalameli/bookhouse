@@ -319,6 +319,12 @@
       "password": "$2a$10$f4lu6CkxnSEI1ev9YUKwrO9YU/wrauizx909mPdsKr3I4irwJh5bi",
       "name": "blacky",
       "id": 1
+    },
+    {
+      "email": "sony@gmail.com",
+      "password": "$2a$10$X7NaX9lo3z2iJharHIhXM.gDJZFmEBexAk0NQwVetc/GF1OeRHybK",
+      "name": "sony",
+      "id": 2
     }
   ]
 }
