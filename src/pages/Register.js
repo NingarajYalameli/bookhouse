@@ -38,7 +38,7 @@ const navigate= useNavigate();
             htmlFor="name"
             className="block mb-2 text-sm font-medium text-gray-900 dark:text-gray-300"
           >
-            Your name
+            Your Name
           </label>
           <input
             type="name"
@@ -54,7 +54,7 @@ const navigate= useNavigate();
             htmlFor="email"
             className="block mb-2 text-sm font-medium text-gray-900 dark:text-gray-300"
           >
-            Your email
+            Your Email
           </label>
           <input
             type="email"
@@ -70,7 +70,7 @@ const navigate= useNavigate();
             htmlFor="password"
             className="block mb-2 text-sm font-medium text-gray-900 dark:text-gray-300"
           >
-            Your password
+            Your Password
           </label>
           <input
             type="password"
